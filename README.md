@@ -2,7 +2,7 @@
 This code was made to check what's inside an ISO file.  
 
 〜Log  
-[2026/09/10 03:08]  
+[2026/09/10 03:08 UTC]  
 Upload Iso_Explorer_Edge_Pro v1~23 & so on.   
 
 〜Notice  
