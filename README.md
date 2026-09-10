@@ -9,4 +9,5 @@ Upload Iso_Explorer_Edge_Pro v1~23 & so on.
 If you open an ISO with the latest code, it also includes the chunk files for recovery, so the data size ends up being about twice as big.  
 If you delete the chunk files, it pretty much goes back to the original ISO file size.
 
+If you want to know me more, click here⇩
 <a href="https://github.com/mamidayo1923-lang/RemGrowingHome/edit/main/README.md">RemGrowing-Home</a>
