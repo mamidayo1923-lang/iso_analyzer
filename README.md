@@ -6,7 +6,7 @@ This code was made to check what's inside an ISO file.
 Upload Iso_Explorer_Edge_Pro v1~23 & so on.   
 
 〜Notice  
-If you open an ISO with the latest code, it also includes the chunk files for recovery, so the data size ends up being about twice as big.  
+If you open an ISO, it also includes the chunk files for recovery, so the data size ends up being about twice as big.  
 If you delete the chunk files, it pretty much goes back to the original ISO file size.
 
 If you want to know me more, click here⇩  
